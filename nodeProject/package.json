@@ -2,9 +2,10 @@
   "name": "NodeJs-Learing-Hub",
   "version": "0.0.0",
   "description": "Building Node Project from scratch",
-  "main": "app.jss",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Atique12/NodeJS-Learing-Hub/issues"
   },
-  "homepage": "https://github.com/Atique12/NodeJS-Learing-Hub"
+  "homepage": "https://github.com/Atique12/NodeJS-Learing-Hub",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
