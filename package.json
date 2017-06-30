@@ -1,0 +1,19 @@
+{
+  "name": "NodeJs-Learing-Hub",
+  "version": "0.0.0",
+  "description": "Building Node Project from scratch",
+  "main": "app.jss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Atique12/NodeJS-Learing-Hub.git"
+  },
+  "author": "atique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atique12/NodeJS-Learing-Hub/issues"
+  },
+  "homepage": "https://github.com/Atique12/NodeJS-Learing-Hub"
+}
