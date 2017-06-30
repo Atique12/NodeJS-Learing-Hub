@@ -21,6 +21,9 @@ app.use(express.static('public'));
 app.use(express.static('src/views'));
 //After that type in browser /index.html or nothing by default it will go to the home Page
 
+//Add bower Component for bootstrap and Jquey
+app.use(express.static('bower_components'));
+
 
 app.get('/', function(req, res){
   res.send('Welcome to the Homepage'+'\n'+'This is the most cool website!!!');
