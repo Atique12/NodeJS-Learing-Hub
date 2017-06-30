@@ -1,0 +1,20 @@
+{
+  "name": "NodeJs-Learing-Hub",
+  "description": "Building Node Project from scratch",
+  "main": "app.js",
+  "authors": [
+    "atique"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Atique12/NodeJS-Learing-Hub",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
